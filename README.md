@@ -13,3 +13,6 @@ follow this:
 - delete storage folder inside public folder
 - Run ```php artisan storage:link```
 - Run ```php artisan serv```
+
+##About the project
+It's About Shop app need APIs in laravel 
